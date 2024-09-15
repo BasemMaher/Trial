@@ -1,0 +1,119 @@
+{
+  "rmList": [
+    {
+      "rm_code": "CR01",
+      "description": "Copper Rod-8.0 mm",
+      "primary_uom_code": "KG"
+    },
+    {
+      "rm_code": "SR0M",
+      "description": "Steel Stay Wire 3x3.50mm",
+      "primary_uom_code": "KG"
+    },
+    {
+      "rm_code": "SR0N",
+      "description": "Steel earth wire 7x4.19mm",
+      "primary_uom_code": "KG"
+    },
+    {
+      "rm_code": "SR0O",
+      "description": "Steel Earth Wire 7x3.68mm",
+      "primary_uom_code": "KG"
+    },
+    {
+      "rm_code": "SR0P",
+      "description": "Stranded Galvanized Steel Wires 7x3mm",
+      "primary_uom_code": "KG"
+    },
+    {
+      "rm_code": "SR0Q",
+      "description": "Stranded Galvanized Steel Wires 7x2.67mm",
+      "primary_uom_code": "KG"
+    },
+    {
+      "rm_code": "SR0R",
+      "description": "Steel Core For ACSR 7 X 2.68mm",
+      "primary_uom_code": "KG"
+    },
+    {
+      "rm_code": "SR0S",
+      "description": "Steel Shield Wire 59.7mmsq-19x2mm-",
+      "primary_uom_code": "KG"
+    },
+    {
+      "rm_code": "SR0T",
+      "description": "Steel Stay Wire 2x3mm",
+      "primary_uom_code": "KG"
+    },
+    {
+      "rm_code": "SR0U",
+      "description": "Steel Stay Wire 3x3mm",
+      "primary_uom_code": "KG"
+    },
+    {
+      "rm_code": "SR0V",
+      "description": "Steel Stay Wire 7x2mm",
+      "primary_uom_code": "KG"
+    },
+    {
+      "rm_code": "SR0W",
+      "description": "Steel Stay Wire 4x4mm",
+      "primary_uom_code": "KG"
+    },
+    {
+      "rm_code": "SR0X",
+      "description": "Steel Stay Wire 19x3.55mm",
+      "primary_uom_code": "KG"
+    },
+    {
+      "rm_code": "ST07",
+      "description": "Steel Tape for Armouring (Galvanized)-0.5x60-",
+      "primary_uom_code": "KG"
+    },
+    {
+      "rm_code": "ST08",
+      "description": "Steel Tape for Armouring (Galvanized)-0.8x50-",
+      "primary_uom_code": "KG"
+    },
+    {
+      "rm_code": "ST09",
+      "description": "Steel Tape for Armouring (Galvanized)-0.8x60-",
+      "primary_uom_code": "KG"
+    },
+    {
+      "rm_code": "ST13",
+      "description": "Steel Tape for Armouring-0.2x30-",
+      "primary_uom_code": "KG"
+    },
+    {
+      "rm_code": "ST15",
+      "description": "Steel Tape for Armouring-0.5x40-",
+      "primary_uom_code": "KG"
+    },
+    {
+      "rm_code": "ST16",
+      "description": "Steel Tape for Armouring-0.5x50-",
+      "primary_uom_code": "KG"
+    },
+    {
+      "rm_code": "ST17",
+      "description": "Steel Tape for Armouring-0.5x60-",
+      "primary_uom_code": "KG"
+    },
+    {
+      "rm_code": "ST18",
+      "description": "Steel Tape for Armouring-0.8x50-",
+      "primary_uom_code": "KG"
+    },
+    {
+      "rm_code": "ST19",
+      "description": "Steel Tape for Armouring-0.8x60-",
+      "primary_uom_code": "KG"
+    },
+    {
+      "rm_code": "ST20",
+      "description": "Galvanized steel tape for armoring 20x0.3 mm",
+      "primary_uom_code": "KG"
+    }
+  ]
+}
