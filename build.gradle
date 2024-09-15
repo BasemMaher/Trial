@@ -2,19 +2,19 @@ buildscript {
     repositories {
         google()
         mavenCentral()
-        gradlePluginPortal() // Ensure this line is present
+        gradlePluginPortal()
     }
     ext {
-            hilt_version = '2.44' // or latest stable version
-            kotlin_version = '1.9.0'  // Use the appropriate Kotlin version
-            compose_version = '1.6.0' // Use the appropriate Compose version
+        hilt_version = '2.43' // Downgrade Hilt to a compatible version
+        kotlin_version = '1.6.21' // Use a compatible Kotlin version
+        compose_version = '1.6.0' // Ensure compatibility with Kotlin version
     }
     dependencies {
-        classpath "org.jetbrains.kotlin:kotlin-serialization:1.9.0" // For serialization
+        classpath "org.jetbrains.kotlin:kotlin-serialization:${kotlin_version}"
         classpath "androidx.navigation:navigation-safe-args-gradle-plugin:2.8.0"
-        classpath "com.google.dagger:hilt-android-gradle-plugin:2.44"
-        classpath "com.android.tools.build:gradle:8.0.2" // Ensure this is up-to-date
-        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:1.9.0" // Ensure this is up-to-date
+        classpath "com.google.dagger:hilt-android-gradle-plugin:${hilt_version}"
+        classpath "com.android.tools.build:gradle:7.4.2" // Ensure AGP version is compatible
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:${kotlin_version}"
     }
 }
 
