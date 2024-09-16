@@ -5,7 +5,7 @@ buildscript {
         gradlePluginPortal()
     }
     ext {
-        hilt_version = '2.43' // Downgrade Hilt to a compatible version
+        hilt_version = '2.42' // Downgrade Hilt to a compatible version
         kotlin_version = '1.6.21' // Use a compatible Kotlin version
         compose_version = '1.6.0' // Ensure compatibility with Kotlin version
     }
